@@ -1,0 +1,184 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.14)  6 MAY 2021 10:34
+entering extended mode
+**./msa518851e13142.tex
+(msa518851e13142.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (texshade.sty
+Package: texshade 2011/05/13 LaTeX TeXshade (v1.24)
+
+Package `texshade', Version 1.24 of 2011/12/01.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 142.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvips.def"
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\structurefile=\read1
+\featurefile=\write3
+\alignfile=\read2
+\sublogofile=\read3
+\exp@rtfile=\write4
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\symalphahelix=\mathgroup6
+\loopcount=\count88
+\innerloopcount=\count89
+\outerloopcount=\count90
+\seq@count=\count91
+\killseq@count=\count92
+\seq@percent=\count93
+\res@count=\count94
+\seq@pointer=\count95
+\pos@count=\count96
+\res@perline=\count97
+\end@count=\count98
+\cons@count=\count99
+\total@count=\count100
+\temp@count=\count101
+\triple@count=\count102
+\temp@@count=\count103
+\pos@sum=\count104
+\box@width=\skip43
+\name@width=\skip44
+\box@depth=\skip45
+\width@tmp=\skip46
+\box@height=\skip47
+\number@width=\skip48
+\line@stretch=\skip49
+\center@fill=\skip50
+\arrow@width=\skip51
+\arrow@height=\skip52
+\rule@thick=\skip53
+\arrow@thick=\skip54
+\logo@height=\skip55
+\equal@width=\skip56
+\equal@tmp=\skip57
+\equal@height=\skip58
+\temp@@length=\skip59
+\vspace@legend=\skip60
+\hspace@legend=\skip61
+Package color Info: Redefining color LightGray on input line 1704.
+Package color Info: Redefining color LightLightGray on input line 1805.
+Package color Info: Redefining color LightLightLightGray on input line 1907.
+)
+(msa518851e13142.aux)
+\openout1 = `msa518851e13142.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+(C:\Users\Erkan\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen103
+\scratchbox=\box26
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen104
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks16
+)
+
+! Package TeXshade Error: File `C:/Users/Erkan/AppData/Local/Temp/RtmpAB9Y4c/se
+q51882b9a7601.fasta' not found.
+
+See the TeXshade package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...cal/Temp/RtmpAB9Y4c/seq51882b9a7601.fasta}
+                                                  
+
+The alignment file you specified is missing or you have 
+misspelled it. 
+
+Stop here, otherwise you're likely getting in trouble. 
+Type X <return> to quit. 
+
+
+(msa518851e13142.aux) ) 
+Here is how much of TeX's memory you used:
+ 6011 strings out of 493634
+ 67446 string characters out of 3141314
+ 219508 words of memory out of 3000000
+ 9434 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 32i,1n,57p,209b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

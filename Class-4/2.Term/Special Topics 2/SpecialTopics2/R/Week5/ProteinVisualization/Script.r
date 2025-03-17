@@ -1,0 +1,7 @@
+#install.packages("Rknots") 
+library("Rknots")
+myprotein <- loadProtein("1BG2") 
+plotDiagram(myprotein$A, ends = c(), lwd = 2.5)
+ramp <- colorRamp(c('blue', ' white', ' red' )) 
+pal <- rgb(ramp(seq(0,1,length=100)), max=255) 
+plotKnot3D(myprotein$A, colors=list(pal), lwd=8, radius=0.4, showNC=TRUE, text=FALSE)
